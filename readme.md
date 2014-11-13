@@ -38,4 +38,4 @@ incorporate all or part into your own project, or do pretty much anything
 else you'd like with this code and software, provided you keep intact the
 attribution to me and this license information.
 
-Copyright 1999—2014, Joseph T. Richardson (LonelyPilgrim @ GitHub).
+Copyright 1999–2014, Joseph T. Richardson (LonelyPilgrim @ GitHub).
